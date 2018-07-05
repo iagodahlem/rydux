@@ -1,4 +1,4 @@
-# redux-ruby
+# rydux
 
 Simple Redux implementation in Ruby.
 
